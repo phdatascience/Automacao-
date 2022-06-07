@@ -1,3 +1,3 @@
 # Automação 
- Pesquisar Cotação: Dolar, Euro e Ouro.
- Atualizar tabela de preços de uma empresa.
+ Atualizar tabela de preços de uma empresa automaticamente, pesquisando a cotação do Dolar, Euro e Ouro.
+ 
